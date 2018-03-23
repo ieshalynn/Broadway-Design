@@ -17,7 +17,13 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
-p {
+.closing {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+.identify, .understand, .execute{
   font-family: Helvetica;
   font-size: 14px;
 }
